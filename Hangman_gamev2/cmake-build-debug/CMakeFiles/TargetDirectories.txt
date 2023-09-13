@@ -1,0 +1,3 @@
+C:/Users/p7/Desktop/C/Hangman_gamev2/cmake-build-debug/CMakeFiles/Hangman_gamev2.dir
+C:/Users/p7/Desktop/C/Hangman_gamev2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/p7/Desktop/C/Hangman_gamev2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v5
+14	105	7108870688784739	CMakeFiles/Hangman_gamev2.dir/main.c.obj	3a69fc2922a88744
+2	112	7108870688845076	CMakeFiles/Hangman_gamev2.dir/hangman.c.obj	9dcc4ef2b276ba13
+112	245	7108870690136108	Hangman_gamev2.exe	518cfd784069f526
+0	289	7108895545999253	build.ninja	13ff2340d6304952
