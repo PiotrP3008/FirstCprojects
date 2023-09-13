@@ -1,3 +1,0 @@
-C:/Users/p7/Desktop/C/C_hangman_game/cmake-build-debug/CMakeFiles/C_hangman_game.dir
-C:/Users/p7/Desktop/C/C_hangman_game/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/p7/Desktop/C/C_hangman_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
